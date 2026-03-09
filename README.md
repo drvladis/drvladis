@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReynoldsAurore
+- 👋 Hi, I’m @drvladis
 - 🌱 I’m currently learning and active using Golang in my projects
 - 📫 How to reach me: TG @vlad_drv
 
